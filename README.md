@@ -30,6 +30,9 @@ x  y  r      one line per disk: center and radius
 
 Disk k is the k-th disk line, after the depot line.
 
+The instance files were reformatted (aligned columns); the values are those
+of the original instances.
+
 ## Solution format
 
 ```
