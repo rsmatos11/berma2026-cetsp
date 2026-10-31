@@ -15,8 +15,8 @@ Web page with the tables of results: https://rsmatos11.github.io/berma2026-cetsp
 |--------|---------|
 | `Instances/Behdani2014/` | 720 instances of Behdani and Smith (2014), with radii 0.25, 0.50 and 1.00 |
 | `Instances/Mennell2009/` | 62 instances of Mennell (2009): 48 with a common radius and 14 with variable radii |
-| `Solutions/Files/` | best solution found for each instance |
-| `Solutions/Figures/` | figure of each solution (PDF; MetaPost sources in `mpfiles/`) |
+| `Solutions/Files/` | best solution found by MA-CETSP-BCD for each instance; `Mennell2009_ILS-BCD/`: solutions of ILS-BCD for the instances of Mennell (2009) |
+| `Solutions/Figures/` | figure of each solution (PDF; MetaPost sources in `mpfiles/`), organized in the same way |
 | `Codes/` | source code (see `Codes/README.md`) |
 
 ## Instance format
