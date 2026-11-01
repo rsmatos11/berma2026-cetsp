@@ -66,11 +66,3 @@ file.
   University of Maryland, 2009.
 - Z. Lei, J.-K. Hao. An effective memetic algorithm for the close-enough
   traveling salesman problem. Applied Soft Computing 153:111266, 2024.
-
-## License
-
-The code in this repository is distributed under the MIT License (see `LICENSE`),
-except for: `Codes/ILS_BCD_Fortran/assct.f` (ACM Software License, non-commercial
-use only; see the README of that folder) and `Codes/MA-CETSP-BCD`, which also
-keeps the copyright notice of the original MA-CETSP code. The instances belong
-to their original authors.
